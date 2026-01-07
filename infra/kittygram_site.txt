@@ -1,0 +1,5 @@
+IP: 158.160.6.13;
+name_taski: https://miryanprec.hopto.org/;
+name_kittygram: https://kotikispint.ddns.net/;
+login: admin;
+password: admin;
